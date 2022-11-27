@@ -2,6 +2,7 @@
 
 - 🛵 修炼前端的小菜鸡
 - 👨‍💻 经历：<a href="https://github.com/PeterPH95/" target="_blank">关于我，双非小硕</a>
+- 🌊 学术：计算机视觉，目标检测，数据挖掘，人工智能
 - 🏡 作品：<a href="https://peterph95.github.io/vuepress2start/" target="_blank">个人主页</a> | <a href="https://peterph95.github.io/vue-manage-system/#/login" target="_blank">基于vue2.x的后台管理系统</a> 
 
 ## 今年汇总 ✨
